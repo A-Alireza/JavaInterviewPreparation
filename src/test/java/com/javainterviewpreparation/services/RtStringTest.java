@@ -11,4 +11,9 @@ class RtStringTest {
         System.out.println("true = " + true);
     }
 
+    @Test
+    public void temp2() {
+        System.out.println("true = " + true);
+    }
+
 }
